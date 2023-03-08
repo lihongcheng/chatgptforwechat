@@ -37,21 +37,15 @@ go run main.go
 ````
 {
 "api_key": "your api key",
-"auto_pass": true,
-"session_timeout": 60
+"auto_pass": true
 }
 
 api_key：openai api_key
 auto_pass:是否自动通过好友添加
-session_timeout：会话超时时间，默认60秒，单位秒，在会话时间内所有发送给机器人的信息会作为上下文。
 ````
 
 # 使用示例
 ### 向机器人发送`我要问下一个问题`，清空会话信息。
-### 私聊
-<img width="300px" src=""/>
 
-### 群聊@回复
-<img width="300px" src=""/>
 
 
