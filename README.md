@@ -39,13 +39,9 @@ go run main.go
 "api_key": "your api key",
 "auto_pass": true
 }
-
 api_key：openai api_key
 auto_pass:是否自动通过好友添加
 ````
-
-# 使用示例
-### 向机器人发送`我要问下一个问题`，清空会话信息。
 
 
 
