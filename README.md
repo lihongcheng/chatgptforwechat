@@ -23,9 +23,6 @@
 > * 项目仅供娱乐，滥用可能有微信封禁的风险，请勿用于商业用途。
 > * 请注意收发敏感信息，本项目不做信息过滤。
 
-# 快速开始
-> 非技术人员请直接下载release中的[压缩包](https://github.com/869413421/wechatbot/releases/tag/v1.1.1) ，解压运行。
-````
 # 获取项目
 git clone https://github.com/lihongcheng/chatgptforwechat.git
 
