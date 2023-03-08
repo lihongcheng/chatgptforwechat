@@ -27,7 +27,7 @@
 git clone https://github.com/lihongcheng/chatgptforwechat.git
 
 # 进入项目目录
-cd wechatbot
+cd chatgptforwechat
 
 # 启动项目
 go run main.go
