@@ -34,13 +34,12 @@ go run main.go
 ````
 
 # 配置文件说明
-````
+
 {
-"api_key": "your api key",
-"auto_pass": true
+"api_key": "your api key",//openai api_key
+"auto_pass": true//是否自动通过好友添加
 }
-api_key：openai api_key
-auto_pass:是否自动通过好友添加
+
 ````
 
 
