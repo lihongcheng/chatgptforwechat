@@ -16,7 +16,7 @@
  * 好友添加自动通过
  
 # 使用前提
-> * 有openai账号，并且创建好api_key，注册事项可以参考[此文章](https://juejin.cn/post/7173447848292253704) 。
+> * 有openai账号，并且创建好api_key，注册事项可以参考[此文章](https://www.codeworld.top/?p=274) 。
 > * 微信必须实名认证。
 
 # 注意事项
